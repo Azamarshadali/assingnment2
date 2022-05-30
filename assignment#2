@@ -1,0 +1,35 @@
+var ALi,Ghous,Ahamad;
+// document.write(" legal variables first , second , third, fourth, five  ");
+// document.write(" illegal variables ? , 2 , ),&,!");
+// document.write("Variable names can only contain numbers, $,/n Variables must begin with a $ /n variables names are case sensitive /n variables should not be js keywords ");
+
+// alert("chapter 5");
+// var num1=+prompt("Enter num1");
+// var num2=+prompt("Enter num2");
+// var result=num1+num2;
+// console.log(result);
+// var num1=+prompt("Enter num1");
+// var num2=+prompt("Enter num2");
+// var result0=num1-num2;
+// console.log(result0);
+// var num1=+prompt("Enter num1");
+// var num2=+prompt("Enter num2");
+// var result1=num1/num2;
+// console.log(result1);
+// var num1=+prompt("Enter num1");
+// var num2=+prompt("Enter num2");
+// var result2=num1*num2;
+// console.log(result2);
+
+
+// // // 
+// // alert("chapter 3");
+// // var age=15;
+// // alert("my age is" +age);
+// // var track=14
+// // alert("You have visited this site +14 ,times");
+// // var birth_year=2000;
+// // alert("my birth year is" +birth_year);
+// // alert("john");
+// // alert("order is T-shirts");
+// // alert("JohnDoe ordered 5 T-shirt(s) on XYZ Clothing store");
